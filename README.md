@@ -1,4 +1,4 @@
-# Glowbeauty Project
+# GlowBeauty- Beauty & Skincare Website
 Sutapa-Html
 
 Tasmia-CSS
